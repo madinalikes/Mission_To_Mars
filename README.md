@@ -32,7 +32,8 @@ After extracting Mars temperature table, I used the table to analyze and visuali
 
 -About how many terrestrial (Earth) days exist in a Martian year? 
 
-Average Minimum Temperature by Month on a mars.
+
+**Average Minimum Temperature by Month on a mars.**
 
 ![image](https://user-images.githubusercontent.com/111404552/209901119-ab907bbd-fcbe-4e50-b4fa-c93956d4764f.png)
 
