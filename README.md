@@ -14,7 +14,6 @@ Using Splinter automated browsing was used to visit the Mars news site. Then, I 
 
 
 Finally, I exported the data to JSON file and saved it as mars.csv
-
 To see the full code written in this part check part_1_mars_news.ipynb
 
 **Deliverable 2:** Scrape and analyze Mars weather data, which exists in a table.
@@ -24,11 +23,17 @@ Using Splinter automated browsing was used to visit the Mars temperature data si
 After extracting Mars temperature table, I used the table to analyze and visualize the data by finding  answers to the following questions:
 
 -How many months exist on Mars?
+
 -How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+
 -What are the coldest and the warmest months on Mars (at the location of Curiosity)? 
+
 -Which months have the lowest and the highest atmospheric pressure on Mars? 
+
 -About how many terrestrial (Earth) days exist in a Martian year? 
 
 Average Minimum Temperature by Month on a mars.
 
 ![image](https://user-images.githubusercontent.com/111404552/209901119-ab907bbd-fcbe-4e50-b4fa-c93956d4764f.png)
+
+To see the full code written in this part check part_2_mars_weather.ipynb
